@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "61c5159e28910a9315a1f5c1070a533e15de5a5d6378915a973a7c319e68eb6c"
+build_start_time: [1667133220, 779345035]
+build_end_time: [1667133253, 318833827]
+inputs:
+  "/Users/glebshalimov/Code/quizapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1667133182, 904727697]
+  "/Users/glebshalimov/Code/quizapp/macos/Runner/AppDelegate.swift": [1663131258, 0]
+  "/Users/glebshalimov/Code/quizapp/macos/Runner/MainFlutterWindow.swift": [1663131258, 0]

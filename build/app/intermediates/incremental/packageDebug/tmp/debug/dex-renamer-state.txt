@@ -1,0 +1,4 @@
+#Mon Oct 31 13:45:30 MSK 2022
+base.0=/Users/glebshalimov/Code/quizapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
